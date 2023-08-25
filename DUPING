@@ -8,7 +8,7 @@ getgenv().Options = {
 local Material = loadstring(game:HttpGet("https://raw.githubusercontent.com/Kinlei/MaterialLua/master/Module.lua"))()
 
 local X = Material.Load({
-   Title = "MP4 HUB FREE N.",
+   Title = "MP4 HUB AFS.",
    Style = 3,
    SizeX = 500,
    SizeY = 350,
